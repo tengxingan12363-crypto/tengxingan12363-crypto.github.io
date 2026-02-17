@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Cilck to download my CV](tengxingan12363-crypto.github.io/files/Xingan Teng CV.pdf)
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
